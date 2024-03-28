@@ -1,0 +1,42 @@
+.navbar{
+    background-color:#393E46;
+}
+
+.top-section{
+    display: flex;
+}
+.image-div, .side-detail-div{
+    margin-top: 50px;
+    margin-left: 50px;
+    background-color:#929AAB ;
+    width: 20rem;
+    display: block;
+}
+.side-detail-div{
+    width: 50%;
+    margin-right:10px;
+}
+.card-img-top{
+    border-radius: 50%;
+}
+.card-title , .card-text{
+    text-align: center;
+    padding: 10px;
+}
+.inner-div{
+    margin-left: 20px;
+    display: flex;
+}
+.col-8{
+    margin-left: 20px;
+}
+
+footer{
+    margin-top: 20px;
+    padding-left: 50px;
+    padding-right: 20px;
+    margin-bottom: 20px;
+}
+.form-label{
+    float: left;
+}
