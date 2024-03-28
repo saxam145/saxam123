@@ -1,0 +1,30 @@
+*{
+    margin-top: 0;
+    padding: 0;
+}
+.click{
+    width: 500px;
+}
+@media (max-width:768px){
+
+    .top-section{
+        display: block;
+    }
+    .side-detail-div{
+        width: 290px;
+        margin-right: 20px;
+        
+    }
+    .inner-div{
+        margin-left: 20px;
+        display: block;
+    }
+    .click{
+padding-right: 20px;
+width: auto;
+text-align: center;
+    }
+    footer{
+        margin-right: 30px;
+    }
+    }
